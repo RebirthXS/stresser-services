@@ -1,7 +1,3 @@
-Ddos for hire services that are worth the wait.
+# stresser-services
 
-Leading DDoS For Hire Service 2022. Official Telegram for RebirthStress
-
-Website: https://rebirthstress.net/
-
-Telegram: https://t.me/rebirthxs
+Updated at: 2025-05-30T16:07:11.244Z

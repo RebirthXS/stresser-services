@@ -1,7 +1,7 @@
 # Information
 🔥 https://rebirthstress.net | The most RELIABLE Stresser | Best API on the market. | Origin Selection & More 🚰
 
-<a href="https://ibb.co/9C3VHJm"><img src="https://i.ibb.co/CTsMKqp/pic.png" alt="pic" border="0"></a>
+<a href="https://rebirthstress.net?github"><img src="https://i.ibb.co/60hW2CCc/frs.png" alt="pic" border="0"></a>
 
 Features:
 
@@ -15,4 +15,4 @@ We also provide FiveM, Minecraft & More Game Methods to suit your needs! Crash s
 
 Kind regards, https://t.me/rebirthxs | https://rebirthstress.net/
 
-<a href="https://rebirthstress.net"><img src="https://i.ibb.co/KzppQ5s3/standard-3.gif" alt="standard-3" border="0"></a>
+<a href="https://rebirthstress.net?github"><img src="https://i.ibb.co/KzppQ5s3/standard-3.gif" alt="standard-3" border="0"></a>

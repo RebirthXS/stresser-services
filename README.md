@@ -1,7 +1,7 @@
 # Information
 🔥 https://rebirthstress.net | The most RELIABLE Stresser | Best API on the market. | Origin Selection & More 🚰
 
-<a href="https://rebirthstress.net?github"><img src="https://i.ibb.co/KctKCvCK/new.png" alt="pic" border="0"></a>
+<a href="https://rebirthstress.net?github"><img src="https://i.ibb.co/vCNX2n2X/new.png" alt="pic" border="0"></a>
 
 Features:
 

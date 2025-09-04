@@ -13,6 +13,6 @@ No login logs or attack logs, we value your privacy.
 Bypass for things like Cloudflare UAM, Hcaptcha, Recaptcha, OVH, NFO and more! / Bypasses for things like Cloudflare UAM, Hcaptcha, Recaptcha, OVH, NFO and more!
 We also provide FiveM, Minecraft & More Game Methods to suit your needs! Crash servers with ease
 
-Kind regards, https://t.me/rebirthxs | https://rebirthstress.net/
+Kind regards, https://rebirthstress.net/ | https://signal.me/#eu/h2fkQglQS1yFn009xRq-F4BLbJkBWVvEKNjn9LeqjCZ9pIegigdKxJsj8u4cukaX
 
 <a href="https://rebirthstress.net?github"><img src="https://i.ibb.co/h1rJ0rhz/final.gif" alt="final" border="0"></a>
